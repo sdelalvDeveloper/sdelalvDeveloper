@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hola, soy Sebastián Delgado
 
-<!--
-**sdelalvDeveloper/sdelalvDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desarrollador de Aplicaciones Multiplataforma**  
+📱 Especializado en **Android con Kotlin y Android Studio**  
+🐍 Experiencia en **Python** y **PyQt** para desarrollo de aplicaciones de escritorio  
 
-Here are some ideas to get you started:
+🌱 Actualmente explorando nuevas tecnologías en **desarrollo móvil y aplicaciones multiplataforma**  
+🚀 Apasionado por crear apps funcionales y mejorar la experiencia del usuario  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tecnologías y Herramientas
+- **Lenguajes:** Kotlin, Java, Python  
+- **Frameworks:** Android Studio, PyQt
+- **Bases de datos:** MySQL, MongoDB, SQLite
+- **Otras herramientas:** Git, GitHub, Spring Boot, SQL y PL/SQL, Jetpack Compose, Retrofit, Qt Designer, Figma, MVVM, MVP, Clean Architecture, Dagger, Hilt, Room, DataStore, SharedPreferences, Insomnia, JUnit, Mockito, Robolectric.
+
+---
+
+### 🔗 Contacto
+- 🌐 [LinkedIn](www.linkedin.com/in/sebastian-delgado-álvarez-b151a2157)  
+
+
+

@@ -1,7 +1,7 @@
 # 👋 Hola, soy Sebastián Delgado
 
 💻 **Desarrollador de Aplicaciones Multiplataforma**  
-📱 Especializado en **Aplicaciones Andoird nativas**  
+📱 Especializado en **Aplicaciones Android nativas**  
 🐍 Experiencia en **Python** y **PyQt** para desarrollo de aplicaciones de escritorio  
 
 🌱 Actualmente explorando nuevas tecnologías en **desarrollo móvil y aplicaciones multiplataforma**  

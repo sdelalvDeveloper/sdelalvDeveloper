@@ -18,7 +18,7 @@
 ---
 
 ### 🔗 Contacto
-- 🌐 [LinkedIn](www.linkedin.com/in/sebastian-delgado-álvarez-b151a2157)  
+- 🌐 [LinkedIn](https//:linkedin.com/in/sebastian-delgado-álvarez-b151a2157)  
 
 
 
